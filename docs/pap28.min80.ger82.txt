@@ -1,4 +1,4 @@
-Im fortgeschrittenen Stadium einer einjährigen Studie, während der leistungsfähige Computer in einer Gruppe «durchschnittlicher» Siebtklässler benutzt wurden, arbeiteten die Schüler an «Computerpoesie», wie sie es nannten.
+Im fortgeschrittenen Stadium einer einjährigen Studie, während der leistungsfähige Computer in einer Gruppe »durchschnittlicher« Siebtklässler benutzt wurden, arbeiteten die Schüler an »Computerpoesie«, wie sie es nannten.
 Sie benutzten Computerprogramme, um Sätze zu erzeugen.
 Sie gaben dem Computer eine syntaktische Struktur vor, innerhalb deren er nach dem Zufallsprinzip Wörter aus einer gegebenen Liste auswählen sollte.
 Das Ergebnis ist die Art konkreter Poesie, die wir in der folgenden Abbildung sehen können.
@@ -20,10 +20,10 @@ HASST
 DÜNNER SNOOPY RENNT WEIL FETTER WOLF HOPST
 SÜSSER FOGINY HÜPFT EINE FETTE DAME RENNT
 
-Eine der Schülerinnen, die dreizehnjährige Jenny, hatte die Projektbetreuer tief gerührt, als sie am ersten Tag ihrer Computerarbeit fragte: «Warum sind wir für das hier ausgewählt worden? Wir sind nicht die Guten.»
-Das Projekt hatte absichtlich «durchschnittliche» Schüler gewählt.
+Eine der Schülerinnen, die dreizehnjährige Jenny, hatte die Projektbetreuer tief gerührt, als sie am ersten Tag ihrer Computerarbeit fragte: »Warum sind wir für das hier ausgewählt worden? Wir sind nicht die Guten.«
+Das Projekt hatte absichtlich »durchschnittliche« Schüler gewählt.
 Eines Tages kam Jenny sehr aufgeregt herein. Sie hatte etwas entdeckt.
-«Jetzt weiß ich, warum wir Substantive und Verben haben», sagte sie.
+»Jetzt weiß ich, warum wir Substantive und Verben haben«, sagte sie.
 Jahrelang war Jenny in der Schule in grammatischen Kategorien gedrillt worden.
 Sie hatte nie den Unterschied zwischen Substantiven, Verben und Adverbien verstanden.
 Aber jetzt wurde deutlich, daß ihre Grammatikprobleme nicht an der Unfähigkeit lagen, mit logischen Kategorien zu arbeiten.
@@ -36,13 +36,13 @@ Sie sah jedenfalls nicht, auf welche Weise Grammatik beim Sprechen helfen konnte
 Darum lernte sie, Grammatik mit Widerwillen anzugehen. Und wie es meistens der Fall ist, erzeugte Widerwillen Versagen.
 Aber nun, als sie versuchte, den Computer dazu zu bringen, Poesie zu erzeugen, geschah etwas Bemerkenswertes.
 Sie merkte, daß sie Wörter in Kategorien einteilte; nicht, weil es ihr gesagt worden war, sondern weil sie es brauchte.
-Um ihren Computer zu «lehren», Wortketten zu erzeugen, die wie Englisch aussahen, mußte sie ihn «lehren», Worte aus einer angemessenen Kategorie zu wählen.
+Um ihren Computer zu »lehren«, Wortketten zu erzeugen, die wie Englisch aussahen, mußte sie ihn »lehren«, Worte aus einer angemessenen Kategorie zu wählen.
 Was sie aus dieser Erfahrung mit einer Maschine über Grammatik lernte, war alles andere als mechanisch oder Routine.
 Ihr Lernen war tiefgreifend und sinnvoll. Jenny tat mehr als Definitionen für bestimmte grammatische Kategorien lernen.
 Sie verstand das übergreifende Prinzip, daß nämlich Wörter (wie Gegenstände) in verschiedene Gruppen eingeteilt werden können und daß dies ihr helfen kann.
-Sie «verstand» Grammatik nicht nur, sie bekam eine andere Beziehung dazu. Die Grammatik «gehörte ihr», und während ihres Jahres mit dem Computer halfen Vorfälle wie der erwähnte Jenny, ihr Selbstbild zu verändern.
-Ihre Leistungen veränderten sich ebenfalls; ihre ehemals schlechten bis mittelmäßigen Noten wurden für den Rest ihrer Schulzeit zu «glatten Einsen».
-Sie lernte, daß auch sie zu «den Guten» gehören konnte.
+Sie «verstand» Grammatik nicht nur, sie bekam eine andere Beziehung dazu. Die Grammatik »gehörte ihr«, und während ihres Jahres mit dem Computer halfen Vorfälle wie der erwähnte Jenny, ihr Selbstbild zu verändern.
+Ihre Leistungen veränderten sich ebenfalls; ihre ehemals schlechten bis mittelmäßigen Noten wurden für den Rest ihrer Schulzeit zu »glatten Einsen«.
+Sie lernte, daß auch sie zu »den Guten« gehören konnte.
 
 
-Von 1968 bis 1969 arbeitete die erste Klasse von 12 «durchschnittlichen» Siebtkläßlern von der Muzzy Junior High School in Lexington, Massachusetts, während des ganzen Schuljahres mit LOGO anstatt ihrem normalen Lehrplan für Mathematik. ... Die Schüler schrieben Programme ..., die konkrete Poesie erzeugten.
+Von 1968 bis 1969 arbeitete die erste Klasse von 12 »durchschnittlichen« Siebtkläßlern von der Muzzy Junior High School in Lexington, Massachusetts, während des ganzen Schuljahres mit LOGO anstatt ihrem normalen Lehrplan für Mathematik. ... Die Schüler schrieben Programme ..., die konkrete Poesie erzeugten.
