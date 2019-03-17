@@ -1,6 +1,6 @@
 # Quotes
 
-see bibliography [here](https://drahtwort.github.io/ref/quotes.html)
+see bibliography [here](https://drahtwort.github.io/ref/cit.html)
 
 ## Transcripts
 
