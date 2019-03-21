@@ -1,14 +1,16 @@
 HAEFNER: Folgende Episode wird Sie ein wenig schockieren: Ein Moderator von Radio Bremen und ich haben mit den Radiohörern ein Ratespiel gemacht.
 Abwechselnd haben wir von Menschen gemachte und computergenerierte Gedichte vorgelesen.
-Dann haben wir die Zuhörer gefragt. Niemand war in der Lage, Computergedichte von den wirklich gedichteten Gedichten zu unterscheiden.
+Dann haben wir die Zuhörer gefragt.
+Niemand war in der Lage, Computergedichte von den wirklich gedichteten Gedichten zu unterscheiden.
 WEIZENBAUM: Ich kenne solche und ähnliche Experimente.
 Sie besagen lediglich, daß die Zuhörer keinen Unterschied hören können.
 Trotzdem gibt es aber einen Unterschied zwischen berechneten und geistig geschaffenen Werken.
 HAEFNER: Und worin soll er bestehen?
 WEIZENBAUM: Okay, diese Frage habe ich mir verdient.
-Was ist eigentlich ein Gedicht? Warum dichten Menschen Gedichte?
+Was ist eigentlich ein Gedicht?
+Warum dichten Menschen Gedichte?
 Jedes Gedicht ist zunächst einmal der sprachlich gestaltete Ausdruck einer Idee, einer Empfindung oder Erfahrung.
-Um sie zum Ausdruck zu bringen, müssen die üblichen Grenzen der Sprache überschritten werden - deshalb das Gedicht.
+Um sie zum Ausdruck zu bringen, müssen die üblichen Grenzen der Sprache überschritten werden – deshalb das Gedicht.
 Der Computer hat keine Idee und keine Empfindung.
 HAEFNER: Jetzt habe ich Mühe, genau zu verstehen, was Sie meinen.
 WEIZENBAUM: Der dichtende Mensch ist kein Zufallsgenerator.
